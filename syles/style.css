@@ -1,0 +1,52 @@
+.dada {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.favorite-brands {
+  color: gray;
+}
+
+.pic-one {
+  width: 420px;
+  height: 280px;
+  border-radius: 25px;
+  margin-bottom: 15px;
+}
+
+.bg {
+  background-color: rgba(82, 195, 3, 0.15);
+  width: 180px;
+}
+
+.common {
+  font-weight: 600;
+}
+
+.heading {
+  font-size: 40px;
+}
+
+.para {
+  color: gray;
+}
+
+.baap {
+    width: 1300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* border: 2px solid red; */
+  padding: 10px;
+}
+
+.baccha {
+    width: 420px;
+    /* border: 2px solid green; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* center vertically */
+  align-items: center; /* Center horizontally */
+  margin-right: 10px;
+}
